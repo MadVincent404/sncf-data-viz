@@ -16,7 +16,7 @@ from pathlib import Path
 SNCF_RED   = "#C0272D"
 SNCF_GRAY  = "#4A4A4A"
 SNCF_LIGHT = "#F5F5F0"
-ACCENT     = "#E87722"   # orange chaud pour les highlights
+ACCENT     = "#E87722"
 BLUE       = "#1A5276"
 TEAL       = "#0E7E6A"
 
