@@ -51,7 +51,7 @@ python map_sncf.py
 
 # 7. Lance le dashboard
 streamlit run app.py
-
+```
 ## Visualisations produites
 
 | Module | Graphique | Description |
