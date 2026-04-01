@@ -25,6 +25,5 @@ jobs:
 
       - name: Exécution du script Selenium
         env:
-          # Ici, GitHub va chercher le secret que vous venez de créer !
           STREAMLIT_URL: ${{ secrets.STREAMLIT_URL }}
         run: python ping_streamlit.py
