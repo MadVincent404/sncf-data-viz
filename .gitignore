@@ -2,3 +2,8 @@
 __pycache__/
 .venv/
 .DS_Store
+affiche.html
+cartes.png
+.ipynb_checkpoints/
+assets/
+test.*

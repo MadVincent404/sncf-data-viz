@@ -123,7 +123,7 @@ if page == "Accueil & KPIs":
     col2.metric("Gares analysées",  f"{freq_wide['gare'].nunique():,}")
     col3.metric("Ponctualité TGV",  f"{ponct:.1f}%", "Moy. 2018–2024")
     col4.metric("Années de données", "10", "2015 → 2024")
-    col5.metric("Datasets", "4", "Transilien · TGV · Gares")
+    col5.metric("Datasets", "5", "Transilien · TGV · Gares")
 
     st.markdown("---")
 
